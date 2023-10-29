@@ -1,4 +1,4 @@
-<img src="https://github.com/AhmadSuhai/SuhailAhmad/blob/main/Morgan%20Maxwell.png" alt="logo" width="1200">
+<img src="https://github.com/AhmadSuhai/AhmadSuhai/blob/main/Morgan%20Maxwell.png" alt="logo" width="1200">
 
 <h1 align="center">Hi 👋, I'm Suhail Ahmad</h1>
 <h3 align="center">A passionate developer from India</h3>
